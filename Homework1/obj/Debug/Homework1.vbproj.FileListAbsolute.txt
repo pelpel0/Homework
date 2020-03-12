@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.Form1.resources
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.Resources.resources
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.Form2.resources
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.Form3.resources
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.Form4.resources
+C:\Users\USER\source\repos\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\USER\source\repos\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\USER\source\repos\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\USER\source\repos\Homework1\Homework1\bin\Debug\Homework1.xml
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.xml
+C:\Users\USER\source\repos\Homework1\Homework1\obj\Debug\Homework1.pdb
